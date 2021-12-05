@@ -16,8 +16,6 @@ When Jan Hendrik Schön worked in Bell Lab, he counterfeited figures in many pap
 ## URL
 ### LaTeX
 https://latex.sjtu.edu.cn/read/tqddwjzyvcnt
-### Github
-https://github.com/SongKai271828/Academic\_writing.git
 
 ## references
 [1] Information Processing Society of Japan, IPSJ, FAQ on Multiple-Submissions and Plagiarism. http://books.google.com/books?id=W-xMPgAACAAJ.
